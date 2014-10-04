@@ -15,7 +15,7 @@
 1. Загрузить проект из репозитория git:
 
   ```
-  git clone https://github.com/akonit/lab_6.git
+  git clone https://github.com/CreamSoda/lab6.git
   ```
 2. Перейти в директорию проекта:
 
